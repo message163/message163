@@ -40,6 +40,6 @@
 ### 运维端
 <div style='display:flex'>
 <img width='70' height='50' title='nginx' style='margin-left:15px;' src='skill/nginx.png' />
-<img width='90' height='50' title='linux' style='margin-left:15px;' src='skill/linux.png' />
+<img width='90' height='40' title='linux' style='margin-left:15px;' src='skill/linux.png' />
 <img width='70' height='50' title='docker' style='margin-left:15px;' src='skill/docker.png' />
 </div>
