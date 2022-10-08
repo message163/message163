@@ -35,4 +35,8 @@
 <img width='100' height='50' title='typeOrm' style='margin-left:15px;' src='skill/typeOrm.png' />
 </div>
 
+### 运维端
 
+<img width='50' height='50' title='nginx' style='margin-left:15px;' src='skill/nginx.png' />
+<img width='50' height='50' title='linux' style='margin-left:15px;' src='skill/linux.png' />
+<img width='50' height='50' title='docker' style='margin-left:15px;' src='skill/docker.png' />
