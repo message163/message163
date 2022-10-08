@@ -33,8 +33,8 @@
 <img width='70' height='50' title='nest' style='margin-left:15px;' src='skill/nest.jpg' />
 <img width='50' height='50' title='mysql' style='margin-left:15px;' src='skill/mysql.png' />
 <img width='100' height='50' title='typeOrm' style='margin-left:15px;' src='skill/typeOrm.png' />
-<img width='100' height='50' title='python' style='margin-left:15px;' src='skill/python.png' />
-<img width='100' height='50' title='java' style='margin-left:15px;' src='skill/java.png' />
+<img width='50' height='50' title='python' style='margin-left:15px;' src='skill/python.png' />
+<img width='50' height='50' title='java' style='margin-left:15px;' src='skill/java.png' />
 </div>
 
 ### 运维端
