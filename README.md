@@ -6,4 +6,4 @@
 
 
 
-[img]('./skill/p.jpg')
+![img]('./skill/p.jpg')
