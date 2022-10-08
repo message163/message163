@@ -36,7 +36,8 @@
 </div>
 
 ### 运维端
-
-<img width='50' height='50' title='nginx' style='margin-left:15px;' src='skill/nginx.png' />
-<img width='50' height='50' title='linux' style='margin-left:15px;' src='skill/linux.png' />
-<img width='50' height='50' title='docker' style='margin-left:15px;' src='skill/docker.png' />
+<div style='display:flex'>
+<img width='70' height='50' title='nginx' style='margin-left:15px;' src='skill/nginx.png' />
+<img width='70' height='50' title='linux' style='margin-left:15px;' src='skill/linux.png' />
+<img width='70' height='50' title='docker' style='margin-left:15px;' src='skill/docker.png' />
+</div>
