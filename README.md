@@ -29,7 +29,7 @@
 <img width='50' height='50' title='express' style='margin-left:15px;' src='skill/express.png' />
 <img width='70' height='50' title='nest' style='margin-left:15px;' src='skill/nest.jpg' />
 <img width='50' height='50' title='mysql' style='margin-left:15px;' src='skill/mysql.png' />
-<img width='70' height='50' title='typeOrm' style='margin-left:15px;' src='skill/typeOrm.png' />
+<img width='100' height='50' title='typeOrm' style='margin-left:15px;' src='skill/typeOrm.png' />
 </div>
 
 
