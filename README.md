@@ -16,8 +16,8 @@
 <img width='40' height='40' style='margin-left:15px;' src='skill/rollup.png' />
 <img width='40' height='40' style='margin-left:15px;' src='skill/vite.png' />
 <img width='40' height='40' style='margin-left:15px;' src='skill/vue.png' />
-<img width='40' height='40' style='margin-left:15px;' src='skill/pinia.png' />
-<img width='50' height='40' style='margin-left:15px;' src='skill/postCss.png' />
+<img width='30' height='40' style='margin-left:15px;' src='skill/pinia.png' />
+<img width='40' height='40' style='margin-left:15px;' src='skill/postCss.png' />
 <img width='40' height='40' style='margin-left:15px;' src='skill/electron.png' />
 <img width='40' height='40' style='margin-left:15px;' src='skill/tailwind.png' />
 <img width='40' height='40' style='margin-left:15px;' src='skill/git.png' />
