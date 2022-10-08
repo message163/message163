@@ -26,11 +26,10 @@
 ### 后端
 
 <div style='display:flex'>
-<img width='40' height='40' title='express' style='margin-left:15px;' src='skill/express.png' />
-<img width='40' height='40' title='nest' style='margin-left:15px;' src='skill/nest.jpg' />
-<img width='40' height='40' title='mysql' style='margin-left:15px;' src='skill/mysql.png' />
-<img width='40' height='40' title='typeOrm' style='margin-left:15px;' src='skill/typeOrm.png' />
-<img width='60' height='40' title='less' style='margin-left:15px;' src='skill/less.png' />
+<img width='50' height='50' title='express' style='margin-left:15px;' src='skill/express.png' />
+<img width='70' height='50' title='nest' style='margin-left:15px;' src='skill/nest.jpg' />
+<img width='50' height='50' title='mysql' style='margin-left:15px;' src='skill/mysql.png' />
+<img width='70' height='50' title='typeOrm' style='margin-left:15px;' src='skill/typeOrm.png' />
 </div>
 
 
