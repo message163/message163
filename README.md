@@ -16,6 +16,7 @@
 <img width='50' height='50' title='rollup' style='margin-left:15px;' src='skill/rollup.png' />
 <img width='50' height='50' title='vite' style='margin-left:15px;' src='skill/vite.png' />
 <img width='50' height='50' title='vue' style='margin-left:15px;' src='skill/vue.png' />
+<img width='50' height='50' title='vue' style='margin-left:15px;' src='skill/uni.png' />
 <img width='40' height='50' title='pinia' style='margin-left:15px;' src='skill/pinia.png' />
 <img width='50' height='50' title='postCss' style='margin-left:15px;' src='skill/postCss.png' />
 <img width='50' height='50' title='electron' style='margin-left:15px;' src='skill/electron.png' />
