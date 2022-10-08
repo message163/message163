@@ -4,7 +4,10 @@
 
 # 💡skill
 
+### 前端
 
-<center>
- <img width='30%' height='30%' src='skill/p.jpg'  />
-</center>
+<img src='skill/js.png' />
+
+
+ <img width='25%' height='25%' src='skill/p.jpg'  />
+
