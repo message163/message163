@@ -5,5 +5,6 @@
 # 💡skill
 
 
-
-![img](skill/p.jpg)
+<center>
+ <img width='30%' height='30%' src='skill/p.jpg'  />
+</center>
