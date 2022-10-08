@@ -7,20 +7,17 @@
 ### 前端
 
 <div style='display:flex'>
-<img width='40' height='40' src='skill/js.png' />
-<img width='40' height='40' src='skill/ts.png' />
-<img width='40' height='40' src='skill/h5.png' />
-<img width='40' height='40' src='skill/css3.png' />
-<img width='40' height='40' src='skill/less.png' />
-<img width='40' height='40' src='skill/webpack.png' />
-<img width='40' height='40' src='skill/rollup.png' />
-<img width='40' height='40' src='skill/vite.png' />
-<img width='40' height='40' src='skill/vue.png' />
-<img width='40' height='40' src='skill/postCss.png' />
-<img width='40' height='40' src='skill/electron.png' />
+<img width='40' height='40' style='margin-left:5px;' src='skill/js.png' />
+<img width='40' height='40' style='margin-left:5px;' src='skill/ts.png' />
+<img width='40' height='40' style='margin-left:5px;' src='skill/h5.png' />
+<img width='40' height='40' style='margin-left:5px;' src='skill/css3.png' />
+<img width='50' height='40' style='margin-left:5px;' src='skill/less.png' />
+<img width='40' height='40' style='margin-left:5px;' src='skill/webpack.png' />
+<img width='40' height='40' style='margin-left:5px;' src='skill/rollup.png' />
+<img width='40' height='40' style='margin-left:5px;' src='skill/vite.png' />
+<img width='40' height='40' style='margin-left:5px;' src='skill/vue.png' />
+<img width='40' height='40' style='margin-left:5px;' src='skill/postCss.png' />
+<img width='40' height='40' style='margin-left:5px;' src='skill/electron.png' />
 </div>
 
-
-# 女朋友
- <img width='25%' height='25%' src='skill/p.jpg'  />
 
