@@ -6,8 +6,8 @@
 
 ### 前端
 
-<img src='skill/js.png' />
+<img width='40' height='40' src='skill/js.png' />
 
-
+### 女朋友
  <img width='25%' height='25%' src='skill/p.jpg'  />
 
