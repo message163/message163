@@ -5,15 +5,11 @@
 # 💡skill
 
 ### 前端
-##### 基础技能
+<img width='40' height='40' src='skill/js.png' /><img width='40' height='40' src='skill/ts.png' />
 
-<img width='40' height='40' src='skill/js.png' />
-<img width='40' height='40' src='skill/ts.png' />
 <img width='40' height='40' src='skill/h5.png' />
-<img width='40' height='40' src='skill/c3.png' />
+<img width='40' height='40' src='skill/css3.png' />
 <img width='40' height='40' src='skill/less.png' />
-
-##### 进阶技能
 <img width='40' height='40' src='skill/webpack.png' />
 <img width='40' height='40' src='skill/rollup.png' />
 <img width='40' height='40' src='skill/vite.png' />
